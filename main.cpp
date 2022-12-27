@@ -12,6 +12,9 @@ int binarySearch(int arr[], int p, int r, int num) {
    } 
    return -1; 
 } 
+void bubblesort(){
+   //
+}
 int main(void) { 
    int arr[] = {1, 3, 7, 15, 18, 20, 25, 33, 36, 40}; 
    int n = sizeof(arr)/ sizeof(arr[0]); 
