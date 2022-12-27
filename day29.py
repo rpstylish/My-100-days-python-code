@@ -5,3 +5,5 @@ def square(n):
     
 square(5)    
 print(square.__doc__)
+
+# PEP 8
