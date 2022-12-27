@@ -12,7 +12,11 @@ int binarySearch(int arr[], int p, int r, int num) {
    } 
    return -1; 
 } 
+<<<<<<< HEAD
 void bubblesort(){
+}
+void quicksort(){
+>>>>>>> testbranch
    //
 }
 int main(void) { 
